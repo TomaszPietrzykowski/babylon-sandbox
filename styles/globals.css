@@ -105,3 +105,7 @@ body {
   background-color: var(--color-grey-500);
   color: var(--color-grey-50);
 }
+#my-canvas {
+  height: 100%;
+  width: 100%;
+}
